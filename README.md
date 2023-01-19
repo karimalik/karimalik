@@ -1,4 +1,9 @@
-### Hi there 👋
+
+## Hello World 👋
+### I'm karim Kompissi ( <a href="https://leonelngoya.com" target="_blank">karimalik</a> )
+
+- 🌴 I am a <b>Web Developer</b> and <b>Computer Security</b>
+- 📫 Find out more about me <a href="https://karimalik.me" target="_blank">HERE</a>
 
 <!--
 **karimalik/karimalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
