@@ -5,6 +5,8 @@
 - 🌴 I am a <b>Web Developer</b> and <b>Computer Security</b>
 - 📫 Find out more about me <a href="https://karimalik.me" target="_blank">HERE</a>
 
+### Wakatime
+see my [wakatime Profile](https://wakatime.com/@karimalik).
 <!--
 **karimalik/karimalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
