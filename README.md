@@ -12,8 +12,7 @@ I'm a web developer and IT security consultant with experience in building intel
 - 📝 French, English & Italian
 - 🏠 From Cameroon
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimalik)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimalik&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimalik&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ### Wakatime
 see my [wakatime Profile](https://wakatime.com/@karimalik).
 
