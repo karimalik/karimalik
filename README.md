@@ -1,7 +1,7 @@
 
 ## Hello World 👋
 [![wakatime](https://wakatime.com/badge/user/dcb2b190-10a0-49e0-980e-6f3e94c03ddb.svg)](https://wakatime.com/@dcb2b190-10a0-49e0-980e-6f3e94c03ddb)
-[![twitter](https://img.shields.io/twitter/follow/KKompissi?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/KKompissi)
+[![twitter](https://img.shields.io/twitter/follow/KKompissi?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/KKompissi) <img src="https://komarev.com/ghpvc/?username=KKompissi7&label=Profile%20views&color=0e75b6&style=flat" alt="KKompissi" />
 [![github](https://img.shields.io/github/followers/karimalik?logo=github&style=plastic)](https://github.com/karimalik?tab=followers)
 ### I'm karim Kompissi ( <a href="https://leonelngoya.com" target="_blank">karimalik</a> )
 I'm a web developer and IT security consultant with experience in building intelligent and scalable applications using Laravel | NestJs | NodeJs | Ruby | GoLang | TypeScript | Lumen I love ethical hacking, REST API, open source projects and the challenges associated with them. I like writing, sharing my knowledge with other developers.
