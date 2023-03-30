@@ -7,7 +7,7 @@
 ### I'm karim Kompissi ( <a href="https://leonelngoya.com" target="_blank">karimalik</a> )
 I'm a web developer and IT security consultant with experience in building intelligent and scalable applications using Laravel | NestJs | NodeJs | Ruby | GoLang | TypeScript | Lumen I love ethical hacking, REST API, open source projects and the challenges associated with them. I like writing, sharing my knowledge with other developers.
 
-- 🌴 I am a <b>Web Developer</b> and <b>Computer Security</b>
+- 🌴 I am a <b>Full Stack Developer</b> and <b>Computer Security</b>
 - 📫 Find out more about me <a href="https://karimalik.me" target="_blank">HERE</a>
 - ❤ Laravel | NestJs | NodeJs | Ruby | GoLang | TypeScript | Lumen
 - 📝 French, English & Italian
