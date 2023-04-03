@@ -10,7 +10,7 @@ I'm a web developer and IT security consultant with experience in building intel
 - 🌴 I am a <b>Full Stack Developer</b> and <b>Computer Security</b>
 - 📫 Find out more about me <a href="https://karimalik.me" target="_blank">HERE</a>
 - ❤ Laravel | NestJs | NodeJs | Ruby | GoLang | TypeScript | Lumen
-- 📝 French, English & Italian
+- 📝 French | English & Italian
 - 🏠 From Cameroon
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimalik&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
