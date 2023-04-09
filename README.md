@@ -9,7 +9,7 @@ I'm a web developer and IT security consultant with experience in building intel
 
 - 🌴 I am a <b>Full Stack Developer</b> and <b>Computer Security</b>
 - 📫 Find out more about me <a href="https://karimalik.me" target="_blank">HERE</a>
-- ❤ Laravel | NestJs | NodeJs | Ruby | GoLang | TypeScript | Lumen
+- ❤ Laravel | NestJs | NodeJs | Ruby | TypeScript | Lumen
 - 📝 French | English & Italian
 - 🏠 From Cameroon
 
