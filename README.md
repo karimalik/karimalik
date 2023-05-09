@@ -9,7 +9,7 @@ I'm a web developer and IT security analyst with experience in building intellig
 
 - 🌴 I am a <b>Full Stack Developer</b> and <b>Computer Security</b>
 - 📫 Find out more about me <a href="https://karimdev.network/" target="_blank">HERE</a>
-- ❤ Laravel | NestJs | NodeJs | Ruby | TypeScript | Lumen
+- ❤ Laravel | NestJs | NodeJs | Ruby | TypeScript | Lumen | Spring Boot
 - 📝 French | English & Italian
 - 🏠 From Cameroon
 
