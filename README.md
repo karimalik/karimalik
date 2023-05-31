@@ -40,6 +40,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs&logoColor=339933)&nbsp;
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimalik&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### Wakatime
