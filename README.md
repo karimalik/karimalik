@@ -47,7 +47,13 @@
 ![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs&logoColor=339933)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimalik&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### :link: &nbsp;Connect with me
+
+<p align="center">
+<a href="https://karimdev.network/"><img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" /></a>
+<a href="https://www.linkedin.com/in/merlin-deffo-7708381a9"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+<a href="me@karimdev.network"><img src="https://img.shields.io/badge/-deffomerlin14@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
 ### Wakatime
 see my [wakatime Profile](https://wakatime.com/@karimalik). 
 
