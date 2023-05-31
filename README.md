@@ -48,6 +48,7 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=spring&logoColor=339933)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=339933)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=339933)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=339933)&nbsp;
 
 
 ### :link: &nbsp;Connect with me
