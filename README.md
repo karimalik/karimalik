@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am  <a href="https://karimdev.network/" target="_blank">Karim Kompissi</a>  </h1>
 
-
+<!--- New section --->
 ### Welcome to my GitHub profile ☺️
 [![wakatime](https://wakatime.com/badge/user/dcb2b190-10a0-49e0-980e-6f3e94c03ddb.svg)](https://wakatime.com/@dcb2b190-10a0-49e0-980e-6f3e94c03ddb)
 [![twitter](https://img.shields.io/twitter/follow/KKompissi?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/KKompissi) <img src="https://komarev.com/ghpvc/?username=KKompissi7&label=Profile%20views&color=0e75b6&style=flat" alt="KKompissi" /> 
@@ -21,6 +21,7 @@
 - 📝 French | English & Italian
 - 🏠 From Cameroon
 
+<!--- New section --->
 ### 🛠 &nbsp;Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -50,7 +51,7 @@
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=33FFE3)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=33A8FF)&nbsp;
 
-
+<!--- New section --->
 ### :link: &nbsp;Connect with me
 
 <p align="center">
@@ -59,8 +60,12 @@
 <a href="https://twitter.com/KKompissi"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=405DE6&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
 <a href="me@karimdev.network"><img src="https://img.shields.io/badge/-me@karimdev.network-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
+<!--- New section --->
 ### Wakatime
 see my [wakatime Profile](https://wakatime.com/@karimalik). 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/karimalik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="karimalik" /></a></p><br><br>
+
+<!--- Footer --->
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
