@@ -68,11 +68,11 @@
 see my [wakatime Profile](https://wakatime.com/@karimalik). 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/karimalik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="karimalik" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/karimalik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="karimalik" /></a></p>
 
 <!--- New section --->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=200 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=350 height=340>
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
 </p>
 <hr/>
