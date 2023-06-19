@@ -24,10 +24,6 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=karimalik&theme=chartreuse-dark"></p>
 <hr/>
 
-### Visitors Count
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{karimalik}/count.svg" /></p> 
-
-
 <!--- New section --->
 ### 🛠 &nbsp;Tech Stack & Tools
 
@@ -74,5 +70,11 @@ see my [wakatime Profile](https://wakatime.com/@karimalik).
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/karimalik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="karimalik" /></a></p><br><br>
 
+<!--- New section --->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+</p>
+<hr/>
 <!--- Footer --->
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
