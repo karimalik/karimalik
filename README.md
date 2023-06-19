@@ -62,10 +62,12 @@
 <a href="https://www.linkedin.com/in/karim-alikson-kompissi-2baa99177/"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 <a href="https://twitter.com/KKompissi"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=405DE6&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
 <a href="me@karimdev.network"><img src="https://img.shields.io/badge/-me@karimdev.network-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+ </hr>
 
 <!--- New section --->
 ### Wakatime
-see my [wakatime Profile](https://wakatime.com/@karimalik). 
+see my [wakatime Profile](https://wakatime.com/@karimalik).
+ <hr/>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/karimalik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="karimalik" /></a></p><br/><br/>
