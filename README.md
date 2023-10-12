@@ -9,7 +9,7 @@
 
 <p align="center" width="150px"> I'm a Full Stack developer and IT security analyst with experience in building intelligent and scalable applications using Laravel | NestJs | NodeJs | Ruby | GoLang | TypeScript | Lumen I love ethical hacking, REST API, open source projects and the challenges associated with them. I like writing, sharing my knowledge with other developers.</p>
 
-- 🌴 I am a <b>Full Stack Developer</b> and <b>IT security analyst</b>
+- 🌴 I am a <b>Full Stack Developer</b>
 - 📫 Find out more about me <a href="https://karimdev.network/" target="_blank">HERE</a>
 - ❤ Laravel | NestJs | NodeJs | Ruby | TypeScript | Lumen | Spring Boot | GoLang
 - 📝 French | English & Italian
