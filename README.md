@@ -11,7 +11,7 @@
 
 - 🌴 I am a <b>Full Stack Developer</b>
 - 📫 Find out more about me <a href="https://karimdev.network/" target="_blank">HERE</a>
-- ❤ Laravel | NestJs | NodeJs | Ruby | TypeScript | Lumen | Spring Boot | GoLang
+- ❤ Laravel | NestJs | NodeJs | Ruby | TypeScript | Lumen | GoLang
 - 📝 French | English & Italian
 - 🏠 From Cameroon
 <hr>
