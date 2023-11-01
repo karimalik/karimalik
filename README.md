@@ -40,9 +40,9 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=1572B6)&nbsp;
 ![Jira](https://img.shields.io/badge/-jira-05122A?style=flat&logo=jira&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-05122A?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-05122A?style=for-the-badge&logo=Trello&logoColor=white)&nbsp;
-![postman](https://img.shields.io/badge/postman-05122A?style=for-the-badge&logo=postman&logoColor=white)&nbsp; 
+![Vercel](https://img.shields.io/badge/-vercel-05122A?style=flat&logo=vercel&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello&logoColor=white)&nbsp;
+![postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman&logoColor=white)&nbsp; 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
