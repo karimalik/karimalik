@@ -56,12 +56,12 @@
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=33A8FF)&nbsp;
 
 <!--- New section --->
-### :link: &nbsp;Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
+### :link: &nbsp;Connect with me 
 
 <p align="center">
 <a href="https://karimdev.hashnode.dev/"><img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" /></a>
 <a href="https://www.linkedin.com/in/karim-alikson-kompissi-2baa99177/"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-<a href="https://twitter.com/KKompissi"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=405DE6&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
+<a href="https://twitter.com/KKompissi"><img src=https://img.shields.io/badge/X-%2300acee.svg?color=405DE6&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
 <a href="karimkompissi@gmail.com"><img src="https://img.shields.io/badge/-karimkompissi@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <div align="center">
