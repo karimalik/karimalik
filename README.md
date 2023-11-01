@@ -71,3 +71,6 @@
 ![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs&logoColor=339933)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=FF2D20)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=33A8FF)&nbsp;
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=karimalik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
