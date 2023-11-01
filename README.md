@@ -23,6 +23,19 @@
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Karim+Kompissi;+Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;+I+value+teamwork+very+much;)](https://github.com/karimalik/)
    <br />
 
+   <!--- New section --->
+### :link: &nbsp;Connect with me 
+
+<p align="center">
+<a href="https://karimdev.hashnode.dev/"><img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" /></a>
+<a href="https://www.linkedin.com/in/karim-alikson-kompissi-2baa99177/"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+<a href="https://twitter.com/KKompissi"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=405DE6&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
+<a href="karimkompissi@gmail.com"><img src="https://img.shields.io/badge/-karimkompissi@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/karimalik/count.svg?" />
+</div>
+
 <hr>
 
 ### My Github Stats
@@ -58,16 +71,3 @@
 ![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs&logoColor=339933)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=FF2D20)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=33A8FF)&nbsp;
-
-<!--- New section --->
-### :link: &nbsp;Connect with me 
-
-<p align="center">
-<a href="https://karimdev.hashnode.dev/"><img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" /></a>
-<a href="https://www.linkedin.com/in/karim-alikson-kompissi-2baa99177/"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-<a href="https://twitter.com/KKompissi"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=405DE6&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
-<a href="karimkompissi@gmail.com"><img src="https://img.shields.io/badge/-karimkompissi@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/karimalik/count.svg?" />
-</div>
