@@ -11,7 +11,7 @@
 
 - 🌴 I am a <b>Full Stack Developer</b>
 - 📫 Find out more about me <a href="https://karimdev.network/" target="_blank">HERE</a>
-- 🌱 My expertise is Laravel | NestJs | NodeJs | Ruby | TypeScript 
+- 🌱 My expertise is Laravel | NestJs | NodeJs | Ruby | TypeScript |NuxtJs
 - 📝 French | English & Italian
 - 🏠 From Cameroon
 
@@ -49,6 +49,7 @@
 ### 🛠 &nbsp;Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![NuxtJs](https://img.shields.io/badge/-NuxtJs-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=1572B6)&nbsp;
