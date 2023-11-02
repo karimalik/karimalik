@@ -69,7 +69,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs&logoColor=339933)&nbsp;
-![VueJs](https://img.shields.io/badge/-VueJs-05122A?style=flat&logo=vuejs&logoColor=339933)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=FF2D20)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=33A8FF)&nbsp;
 
