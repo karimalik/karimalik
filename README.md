@@ -49,7 +49,6 @@
 ### 🛠 &nbsp;Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![NuxtJs](https://img.shields.io/badge/-NuxtJs-05122A?style=flat&logo=nuxtjs)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=1572B6)&nbsp;
@@ -70,6 +69,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs&logoColor=339933)&nbsp;
+![NuxtJs](https://img.shields.io/badge/-NuxtJs-05122A?style=flat&logo=nuxtjs&logoColor=339933)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=FF2D20)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=33A8FF)&nbsp;
 
