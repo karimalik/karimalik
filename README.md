@@ -9,7 +9,7 @@
 <!---p align="center" width="150px"> I'm a Software developer with experience in building intelligent and scalable applications using Laravel | NestJs | NodeJs | Ruby | TypeScript I love ethical hacking, REST API, open source projects and the challenges associated with them. I like writing, sharing my knowledge with other developers.</p---> 
 <br>
 
-- 🌴 I am a <b>Full Stack Developer</b>
+- 🌴 I am a <b>Software Developer | IT security analyst & Product Manager</b>
 - 📫 Find out more about me <a href="https://karimdev.network/" target="_blank">HERE</a>
 - 🌱 My expertise is Laravel | NestJs | NodeJs | Ruby | TypeScript |NuxtJs
 - 📝 French | English & Italian
