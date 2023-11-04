@@ -1,12 +1,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Hello , I am  <a href="https://karimdev.network/" target="_blank">Karim Kompissi</a>  </h1>
+<h1 align="center">Hi 👋 , I am  <a href="https://karimdev.network/" target="_blank">Karim Kompissi</a>  </h1>
 
 <!--- New section --->
 ### Welcome to my GitHub profile 😍
 [![wakatime](https://wakatime.com/badge/user/dcb2b190-10a0-49e0-980e-6f3e94c03ddb.svg)](https://wakatime.com/@dcb2b190-10a0-49e0-980e-6f3e94c03ddb)
 [![twitter](https://img.shields.io/twitter/follow/KKompissi?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/KKompissi) <img src="https://komarev.com/ghpvc/?username=KKompissi7&label=Profile%20views&color=0e75b6&style=flat" alt="KKompissi" /> 
-<!---p align="center" width="150px"> I'm a Software developer with experience in building intelligent and scalable applications using Laravel | NestJs | NodeJs | Ruby | TypeScript I love ethical hacking, REST API, open source projects and the challenges associated with them. I like writing, sharing my knowledge with other developers.</p---> 
 <br>
 
 - 🌴 I am a <b>Software Developer | IT security analyst & Product Manager</b>
