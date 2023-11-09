@@ -53,7 +53,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=1572B6)&nbsp;
 ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
-![Jira](https://img.shields.io/badge/-jira-05122A?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/-jira-1F51FF?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/-vercel-05122A?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=for-the-badge&logo=Trello&logoColor=white)&nbsp;
 ![postman](https://img.shields.io/badge/-postman-05122A?style=for-the-badge&logo=postman&logoColor=white)&nbsp; 
