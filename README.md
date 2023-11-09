@@ -55,7 +55,7 @@
 ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![Jira](https://img.shields.io/badge/-jira-1F51FF?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/-vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=for-the-badge&logo=Trello&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-0976FB?style=for-the-badge&logo=Trello&logoColor=white)&nbsp;
 ![postman](https://img.shields.io/badge/-postman-05122A?style=for-the-badge&logo=postman&logoColor=white)&nbsp; 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
