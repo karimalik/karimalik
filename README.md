@@ -56,9 +56,9 @@
 ![Jira](https://img.shields.io/badge/-jira-1F51FF?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/-vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-0976FB?style=for-the-badge&logo=Trello&logoColor=white)&nbsp;
-![postman](https://img.shields.io/badge/-postman-05122A?style=for-the-badge&logo=postman&logoColor=white)&nbsp; 
+![postman](https://img.shields.io/badge/-postman-FF4B00?style=for-the-badge&logo=postman&logoColor=white)&nbsp; 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7807D6?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=for-the-badge&logo=json&logoColor=000000)&nbsp;
