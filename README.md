@@ -71,7 +71,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
 ![NestJs](https://img.shields.io/badge/-NestJs-c2064b?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-FF2D20?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-05122A?style=for-the-badge&logo=canva&logoColor=33A8FF)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-33A8FF?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 
 <hr/>
 
