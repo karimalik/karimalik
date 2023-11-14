@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 , I am  <a href="https://karimdev.network/" target="_blank">Karim Kompissi</a>  </h1>
 
 <!--- New section --->
-### Welcome to my GitHub profile 😍
+### Welcome to my GitHub profile 🤗
 [![wakatime](https://wakatime.com/badge/user/dcb2b190-10a0-49e0-980e-6f3e94c03ddb.svg)](https://wakatime.com/@dcb2b190-10a0-49e0-980e-6f3e94c03ddb)
 [![twitter](https://img.shields.io/twitter/follow/KKompissi?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/KKompissi) <img src="https://komarev.com/ghpvc/?username=KKompissi7&label=Profile%20views&color=0e75b6&style=flat" alt="KKompissi" /> 
 <br>
@@ -70,7 +70,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=336791)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
 ![NestJs](https://img.shields.io/badge/-NestJs-c2064b?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=for-the-badge&logo=ruby&logoColor=FF2D20)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-FF2D20?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=for-the-badge&logo=canva&logoColor=33A8FF)&nbsp;
 
 <hr/>
