@@ -67,7 +67,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=336791)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![NestJs](https://img.shields.io/badge/-NestJs-c2064b?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-FF2D20?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
