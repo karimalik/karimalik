@@ -52,7 +52,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-B81E07?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=1572B6)&nbsp;
-![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
+![VueJs](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/-jira-1F51FF?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/-vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-0976FB?style=for-the-badge&logo=Trello&logoColor=white)&nbsp;
