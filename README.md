@@ -79,28 +79,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=karimalik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-<p align="center">
-      <!-- Achievements -->
-<details>
-  <summary><b>📰 ACHIEVMENTS </b></summary>
-    <p>
-       
-
-<!-- Tech Stack -->  
-
-    
- [➡️ Full Tech Stack](https://github.com/karimalik/NeonLoginPage/blob/main/TECH-STUCK.md)
-
- [![committers.top badge](https://user-badge.committers.top/kenya/karimalik.svg)](https://user-badge.committers.top/kenya/karimalik)
-
-     
-</details> 
-</p>
-<p align="center">    
-<a href="https://gitstar-ranking.com/karimalik" title="Snek 🐍"><img width="900" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
-</p>
-
-<p align="center" color="FA8072">YOU FRIEND KarimAlik</p>
