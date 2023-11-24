@@ -95,7 +95,7 @@
 </details> 
 </p>
 <p align="center">    
-<a href="https://gitstar-ranking.com/L1QU3D" title="Snek 🐍"><img width="900" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+<a href="https://gitstar-ranking.com/karimalik" title="Snek 🐍"><img width="900" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 </p>
 
 <p align="center" color="FA8072">YOU FRIEND FREDRICK SARUNI</p>
