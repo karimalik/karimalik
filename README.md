@@ -89,7 +89,12 @@
     <p>
        
 
+<!-- Tech Stack -->  
 
+    
+ [➡️ Full Tech Stack](https://github.com/karimalik/NeonLoginPage/blob/main/TECH-STUCK.md)
+
+ [![committers.top badge](https://user-badge.committers.top/kenya/karimalik.svg)](https://user-badge.committers.top/kenya/karimalik)
 
      
 </details> 
@@ -98,4 +103,4 @@
 <a href="https://gitstar-ranking.com/karimalik" title="Snek 🐍"><img width="900" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 </p>
 
-<p align="center" color="FA8072">YOU FRIEND FREDRICK SARUNI</p>
+<p align="center" color="FA8072">YOU FRIEND KarimAlik</p>
