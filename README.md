@@ -41,7 +41,7 @@
   <img src="https://profile-counter.glitch.me/karimalik/count.svg?" />
 </div>
 
-<hr>
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
 ### 📊 &nbsp;My Github Stats
 
