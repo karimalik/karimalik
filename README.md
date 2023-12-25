@@ -84,7 +84,8 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-FF2D20?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-33A8FF?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 
-<hr/>
+
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=karimalik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
