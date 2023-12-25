@@ -89,3 +89,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=karimalik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![An image of @karimalik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karimalik)](https://holopin.io/@karimalik)
