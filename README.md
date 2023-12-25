@@ -3,6 +3,8 @@
 
 <h1 align="center">Hi 👋 , I am  <a href="https://karimdev.network/" target="_blank">Karim Kompissi</a>  </h1>
 
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
 <!--- New section --->
 ### Welcome to my GitHub profile 😊
 [![wakatime](https://wakatime.com/badge/user/dcb2b190-10a0-49e0-980e-6f3e94c03ddb.svg)](https://wakatime.com/@dcb2b190-10a0-49e0-980e-6f3e94c03ddb)
