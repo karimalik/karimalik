@@ -84,10 +84,26 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-FF2D20?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-33A8FF?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 
+<div align="center">
+  <table>
+    <tr>
+      <h2>Top Programming Languages</h2>
+      <td align="center">
+        <a href="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da">
+          <img src="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da" alt="pixel-neon" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ctoic/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimalik&layout=compact&bg_color=00000000" alt="Top Langs" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=karimalik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-[![An image of @karimalik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karimalik)](https://holopin.io/@karimalik)
