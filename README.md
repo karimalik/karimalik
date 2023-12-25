@@ -41,7 +41,9 @@
   <img src="https://profile-counter.glitch.me/karimalik/count.svg?" />
 </div>
 
+
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
 
 ### 📊 &nbsp;My Github Stats
 
@@ -50,7 +52,9 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=karimalik&theme=chartreuse-dark"></p>
 <p align="center" ><img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karimalik&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" /></p>
 
-<hr/>
+
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
 
 <!--- New section --->
 ### 🛠 &nbsp;Tech Stack & Tools
