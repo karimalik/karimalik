@@ -84,6 +84,8 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-FF2D20?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-33A8FF?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 
+[![My Skills](https://skillicons.dev/icons?i=py,c,,html,css,javascript,bash,bootstrap,figma,github,linux,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
+
 <div align="center">
   <table>
     <tr>
