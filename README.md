@@ -6,7 +6,7 @@
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
 <!--- New section --->
-### Welcome to my GitHub profile 😊
+### Welcome to my GitHub profile ❤️
 [![wakatime](https://wakatime.com/badge/user/dcb2b190-10a0-49e0-980e-6f3e94c03ddb.svg)](https://wakatime.com/@dcb2b190-10a0-49e0-980e-6f3e94c03ddb)
 [![twitter](https://img.shields.io/twitter/follow/KKompissi?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/KKompissi) <img src="https://komarev.com/ghpvc/?username=KKompissi7&label=Profile%20views&color=0e75b6&style=flat" alt="KKompissi" /> 
 <br>
