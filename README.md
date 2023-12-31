@@ -72,12 +72,14 @@
       </td>
       <td align="center">
         <a href="https://github.com/ctoic/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimalik&layout=compact&bg_color=00000000" alt="Top Langs" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimalik&layout=compact&hide=TSQL&theme=chartreuse-dark" alt="Top Langs" />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
+<!--https://github-readme-stats.vercel.app/api/top-langs/?username=karimalik&layout=compact&bg_color=00000000-->
 
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
