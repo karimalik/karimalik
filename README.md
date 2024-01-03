@@ -28,7 +28,7 @@
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
    <!--- New section --->
-### :link: &nbsp;Connect with me 
+### &nbsp;Connect with me 🤭
 
 <p align="center">
 <a href="https://karimdev.hashnode.dev/"><img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" /></a>
