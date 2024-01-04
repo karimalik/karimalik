@@ -45,7 +45,7 @@
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
 
-### 📊 &nbsp;My Github Stats
+### &nbsp;My Github Stats 📊
 
 <!--p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimalik&layout=compact&hide=TSQL&theme=chartreuse-dark"></p-->
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=karimalik&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
