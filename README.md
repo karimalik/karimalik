@@ -64,7 +64,7 @@
 <div align="center">
   <table>
     <tr>
-      <h2>Top Programming Languages</h2>
+      <h2>Top Programming Languages 🔝</h2>
       <td align="center">
         <a href="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da">
           <img src="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da" alt="pixel-neon" />
