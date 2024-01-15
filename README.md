@@ -13,7 +13,7 @@
 
 - 🌴 I am a <b>Software Developer | IT security analyst & Product Manager</b>
 - 📫 Find out more about me <a href="https://karimdev.network/" target="_blank">HERE</a>
-- 🌱 My expertise is Laravel | NestJs | NodeJs | Ruby | TypeScript | NuxtJs | ReactJs
+- 🌱 My expertise is Laravel | NestJs | NodeJs | Ruby | TypeScript | ReactJs
 - 📝 French | English | Italian 
 - 🏠 From Cameroon
 
