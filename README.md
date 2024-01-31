@@ -15,7 +15,6 @@
 - 📫 Find out more about me <a href="https://karimdev.network/" target="_blank">HERE</a>
 - 🌱 My expertise is Laravel | NestJs | NodeJs | Ruby | TypeScript | ReactJs | NextJs
 - 📝 French | English | Italian
-- 🏠 From Cameroon
 
   <br/> 
     
