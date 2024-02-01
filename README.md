@@ -80,5 +80,5 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=karimalik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
