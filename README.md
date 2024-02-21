@@ -56,7 +56,7 @@
 <!--- New section --->
 ### &nbsp;Tech Stack & Tools ⚒️
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,javascript,bash,bootstrap,figma,github,linux,neovim,vscode,php,laravel,mongodb,nestjs,nodejs,react,ruby,ts,vercel,prisma,postgres,postman,nuxtjs,mysql,git,gitlab,flutter,dart,discord,express,wordpress,vue,sequelize,nextjs,&theme=dark&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,javascript,bash,bootstrap,figma,github,linux,neovim,vscode,php,laravel,mongodb,nestjs,nodejs,react,ruby,ts,vercel,prisma,postgres,postman,nuxtjs,mysql,git,gitlab,flutter,dart,discord,express,wordpress,vue,sequelize,nextjs,&theme=dark&perline=12)](https://skillicons.dev)
 
 <div align="center">
   <table>
