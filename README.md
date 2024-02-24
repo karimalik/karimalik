@@ -49,8 +49,6 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=karimalik&theme=chartreuse-dark"></p>
 <p align="center" ><img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karimalik&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" /></p>
 
-<a href="https://app.daily.dev/xdcondor"><img src="https://api.daily.dev/devcards/v2/uJnhwCTLRtNieD1UbjAsm.png?type=default&r=pgt" width="356" alt="karim kompissi's Dev Card"/></a>
-
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
