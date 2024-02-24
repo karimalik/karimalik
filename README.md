@@ -78,6 +78,12 @@
 
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username=karimalik&layout=compact&bg_color=00000000-->
 
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
+### &nbsp;My DevCard 😎
+
+<a href="https://app.daily.dev/xdcondor"><img src="https://api.daily.dev/devcards/v2/uJnhwCTLRtNieD1UbjAsm.png?type=wide&r=vg6" width="652" alt="karim kompissi's Dev Card"/></a>
+
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
