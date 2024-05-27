@@ -1,5 +1,5 @@
 <!--p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p-->
-![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)
+
 
 <h1 align="center">Hi👋 , I am  <a href="https://kakdev.com/" target="_blank">Karim Kompissi</a>  </h1>
 
