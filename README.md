@@ -11,7 +11,7 @@
 [![twitter](https://img.shields.io/twitter/follow/KKompissi?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/KKompissi) <img src="https://komarev.com/ghpvc/?username=KKompissi7&label=Profile%20views&color=0e75b6&style=flat" alt="KKompissi" /> 
 <br>
 
-- 🌴 I am a <b>Software Developer | IT security analyst & Product Manager</b>
+- 🌴 I am a <b>Software Developer | IT security analyst & Project Manager</b>
 - 📫 Find out more about me <a href="https://kakdev.com/" target="_blank">HERE</a>
 - 🌱 My expertise is Laravel | NestJs | NodeJs | TypeScript | ReactJs | NextJs 
 - 📝 French | English | Italian
