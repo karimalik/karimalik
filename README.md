@@ -14,7 +14,7 @@
 - 🌴 I am a <b>Software Developer | IT security analyst & Project Manager</b>
 - 📫 Find out more about me <a href="https://kakdev.com/" target="_blank">HERE</a>
 - 🌱 My expertise is Laravel | NestJs | NodeJs | TypeScript | ReactJs | NextJs 
-- 📝 French | English Italian 
+- 📝 French | English Italian | Italian
 
   <br/> 
     
