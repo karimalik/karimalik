@@ -39,12 +39,6 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
-### &nbsp;My Wakatime Stats 📊
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karimalik)](https://github.com/anuraghazra/github-readme-stats)
-
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-
 ### &nbsp;My Github Stats 📊
 
 <!--p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimalik&layout=compact&hide=TSQL&theme=chartreuse-dark"></p-->
