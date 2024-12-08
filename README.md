@@ -14,7 +14,7 @@
 - 🌴 I am a <b>Software Developer | IT security analyst & Project Manager</b>
 - 📫 Find out more about me <a href="https://kakdev.com/" target="_blank">HERE</a>
 - 🌱 My expertise is PHP | Laravel | NestJs | NodeJs | TypeScript | ReactJs | NextJs 
-- 📝 French | English
+- 📝 French | English 
   <br/> 
     
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Karim+Kompissi;+Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;+I+value+teamwork+very+much;)](https://github.com/karimalik/)
@@ -72,10 +72,6 @@
     </tr>
   </table>
 </div>
-
-<!--https://github-readme-stats.vercel.app/api/top-langs/?username=karimalik&layout=compact&bg_color=00000000-->
-
-
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
