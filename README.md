@@ -1,79 +1,95 @@
-<!--p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p-->
-
-
-<h1 align="center">Hi👋 , I am  <a href="https://kakdev.com/" target="_blank">Karim Kompissi</a>  </h1>
-
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-
-<!--- New section --->
-### Welcome to my GitHub profile 🥰
-[![wakatime](https://wakatime.com/badge/user/dcb2b190-10a0-49e0-980e-6f3e94c03ddb.svg)](https://wakatime.com/@dcb2b190-10a0-49e0-980e-6f3e94c03ddb)
-[![twitter](https://img.shields.io/twitter/follow/KKompissi?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/KKompissi) <img src="https://komarev.com/ghpvc/?username=KKompissi7&label=Profile%20views&color=0e75b6&style=flat" alt="KKompissi" /> 
-<br>
-
-- 🌴 I am a <b>Software Developer | IT security analyst & Project Manager</b>
-- 📫 Find out more about me <a href="https://kakdev.com/" target="_blank">HERE</a>
-- 🌱 My expertise is PHP | Laravel | NestJs | NodeJs | TypeScript | ReactJs | NextJs 
-- 📝 French | English | Italian
-  <br/> 
-    
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Karim+Kompissi;+Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;+I+value+teamwork+very+much;)](https://github.com/karimalik/)
-   
-
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-
-   <!--- New section --->
-### &nbsp;Connect with me 😊
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm <a href="https://kakdev.com/" target="_blank">Karim Kompissi</a></h1>
+<h3 align="center">Lead Developer | DevOps Engineer | Software Engineer</h3>
 
 <p align="center">
-<a href="https://karimdev.hashnode.dev/"><img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" /></a>
-<a href="https://www.linkedin.com/in/karim-kompissi-1a5bb4285/"><img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-<!-- <a href="https://twitter.com/KKompissi"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=405DE6&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a> -->
-<a href="https://twitter.com/KKompissi"><img src=https://img.shields.io/twitter/follow/kkompissi?label=Follow&style=social alt=twitter style="margin-bottom: 5px;" /></a>
-<a href="karimkompissi@gmail.com"><img src="https://img.shields.io/badge/-karimkompissi@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://kakdev.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-kakdev.com-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/KKompissi" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/KKompissi?label=Follow&style=for-the-badge&logo=twitter&color=1DA1F2" />
+  </a>
+  <a href="mailto:karimkompissi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-karimkompissi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/karim-kompissi-1a5bb4285/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Karim%20Kompissi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🌍 About Me
+
+💡 Passionate about **building scalable software**, **automation**, and **team leadership**.  
+I design solutions that blend **backend architecture, cloud deployment, and software craftsmanship**.  
+
+- 🔭 Currently working on: **Enterprise digital solutions & open-source projects**  
+- 🌱 Learning more about **Kubernetes, microservices & software architecture**  
+- 💬 Ask me about **Laravel, NestJS, CI/CD pipelines, or system design**  
+- 🗣️ Languages: **French | English | Italian**  
+- ⚡ Motto: *"Build systems that empower people."*
+
+---
+
+### 🧠 Tech Stack & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,nestjs,flutter,dart,python,linux,docker,kubernetes,git,github,gitlab,mysql,postgres,mongodb,vercel,nginx,express,postman,figma,vscode,bash&perline=11&theme=dark)](https://skillicons.dev)
+
+---
+
+### 🚀 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karimalik&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimalik&theme=chartreuse-dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimalik&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true" width="90%" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karimalik&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 💬 Let's Connect & Collaborate
+
+<p align="center">
+  <a href="https://karimdev.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://twitter.com/KKompissi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/karim-kompissi-1a5bb4285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/karimalik/count.svg?" />
+  <img src="https://profile-counter.glitch.me/karimalik/count.svg?" alt="Visitor Count" />
 </div>
 
+---
 
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+### ⚙️ Developer Activity (Last Year)
 
-### &nbsp;My Github Stats 📊
+| Metric | Value |
+|--------|--------|
+| ⭐ **Stars Earned** | 39 |
+| 🌀 **Total Commits** | 1.9k |
+| 🔀 **Pull Requests** | 583 |
+| 🧩 **Issues Opened** | 3 |
+| 🧱 **Repositories Contributed To** | 8 |
+| 🧮 **Overall Grade** | **A- (Excellent)** |
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimalik&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=karimalik&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<!-- <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=karimalik&theme=chartreuse-dark"></p> -->
-<p align="center" ><img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karimalik&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" /></p>
+> 🧭 *Goal: Reach A+ by scaling open-source visibility, improving documentation, and fostering community contributions.*
 
+---
 
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+### 🧩 Fun Fact
 
+> “A true engineer doesn’t just write code — he builds ecosystems that last.”
 
-<!--- New section --->
-### &nbsp;Tech Stack & Tools ⚒️
-
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,javascript,bash,bootstrap,figma,github,linux,neovim,vscode,php,laravel,mongodb,nestjs,nodejs,react,ts,vercel,prisma,postgres,postman,nuxtjs,mysql,git,gitlab,flutter,dart,discord,express,wordpress,vue,sequelize,nextjs,&theme=dark&perline=12)](https://skillicons.dev)
-
-<div align="center">
-  <table>
-    <tr>
-      <h2>Top Programming Languages 🔝</h2>
-      <td align="center">
-        <a href="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da">
-          <img src="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da" alt="pixel-neon" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ctoic/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimalik&layout=compact&hide=TSQL&theme=chartreuse-dark" alt="Top Langs" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-
-<!-- ## GitHub Trophies 🏆 -->
-![](https://github-profile-trophy.vercel.app/?username=karimalik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
