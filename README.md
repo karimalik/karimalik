@@ -27,7 +27,7 @@ I design solutions that blend **backend architecture, cloud deployment, and soft
 - 🔭 Currently working on: **Enterprise digital solutions & open-source projects**  
 - 🌱 Learning more about **Kubernetes, microservices & software architecture**  
 - 💬 Ask me about **Laravel, NestJS, CI/CD pipelines, or system design**  
-- 🗣️ Languages: **French | English | Italian**  
+- 🗣️ Languages: **French | English**  
 - ⚡ Motto: *"Build systems that empower people."*
 
 ---
