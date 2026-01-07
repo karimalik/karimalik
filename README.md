@@ -40,10 +40,10 @@ I design solutions that blend **backend architecture, cloud deployment, and soft
 
 ### 🚀 GitHub Insights
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karimalik&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimalik&theme=chartreuse-dark&hide_border=true" width="48%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimalik&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true" width="90%" />
