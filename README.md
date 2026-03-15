@@ -79,9 +79,9 @@ I design solutions that blend **backend architecture, cloud deployment, and soft
 |--------|--------|
 | ⭐ **Stars Earned** | 39 |
 | 🌀 **Total Commits** | 1.9k |
-| 🔀 **Pull Requests** | 663 |
+| 🔀 **Pull Requests** | 717 |
 | 🧩 **Issues Opened** | 3 |
-| 🧱 **Repositories Contributed To** | 8 |
+| 🧱 **Repositories Contributed To** | 10 |
 | 🧮 **Overall Grade** | **A- (Excellent)** |
 
 > 🧭 *Goal: Reach A+ by scaling open-source visibility, improving documentation, and fostering community contributions.*
