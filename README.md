@@ -61,11 +61,12 @@ I design solutions that blend **backend architecture, cloud deployment, and soft
 
 ### 💬 Let's Connect & Collaborate
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://karimdev.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://twitter.com/KKompissi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/karim-kompissi-1a5bb4285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+  <!-- <a href="https://www.linkedin.com/in/karim-kompissi-1a5bb4285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+  <!-- https://www.linkedin.com/in/alikson-karin-awouatsa-kompissi-1a5bb4285/ 
+</p> -->
 
 <!--div align="center">
   <img src="https://profile-counter.glitch.me/karimalik/count.svg?" alt="Visitor Count" />
