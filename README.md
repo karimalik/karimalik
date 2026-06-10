@@ -41,7 +41,7 @@ I design solutions that blend **backend architecture, cloud deployment, and soft
 ### 🚀 GitHub Insights
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimalik&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=karimalik&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimalik&theme=chartreuse-dark&hide_border=true" width="48%" />
 </p
 
