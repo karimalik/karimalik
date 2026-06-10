@@ -47,21 +47,15 @@ I design solutions that blend **backend architecture, cloud deployment, and soft
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimalik&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true" width="90%" />
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karimalik&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 💬 Let's Connect & Collaborate
+</p> 
 
 <!-- <p align="center">
+### 🏆 Achievements
+  <img src="https://github-profile-trophy.vercel.app/?username=karimalik&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+</p> -->
+
+<!-- <p align="center">
+### 💬 Let's Connect & Collaborate
   <a href="https://karimdev.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://twitter.com/KKompissi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <!-- <a href="https://www.linkedin.com/in/karim-kompissi-1a5bb4285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
